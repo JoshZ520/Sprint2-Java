@@ -41,4 +41,3 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 
 * [ ] Add a function to check if the number exceeds or lower than the number input
 * [ ] Put it up on a website and have the number guessing game more accessiable. 
-* [ ]
